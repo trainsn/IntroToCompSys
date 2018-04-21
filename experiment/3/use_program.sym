@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BACK                    302C
+//	CON                     3051
+//	COUNT                   3048
+//	DELAY                   302D
+//	ENTRY                   3050
+//	KBSR                    3052
+//	NUM1                    3053
+//	NUM2                    3054
+//	OFF                     3033
+//	ON                      303C
+//	PSTAR                   300D
+//	PWELL                   301D
+//	REP                     302F
+//	SSP                     304F
+//	STAR1                   3055
+//	STAR2                   3087
+//	SaveR1                  3049
+//	SaveR2                  304A
+//	SaveR3                  304C
+//	WELL1                   30B6
+//	WELL2                   30E8

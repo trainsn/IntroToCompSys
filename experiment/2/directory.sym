@@ -1,0 +1,13 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	Reg2                    301E
+//	address                 302B
+//	fail                    3028
+//	inst                    303B
+//	loop1                   3003
+//	loop2                   3013
+//	match                   300A
+//	outstr                  3060
+//	stop                    302A
+//	stp                     303A
+//	success                 3026

@@ -1,0 +1,6 @@
+Write a program in LC-3 machine language that counts the number of "ones"
+in location x3050 and stores the result in location x3051.  Your program
+should start with the first instruction in x3000.  Your program should
+terminate with the Halt instruction, which is a trap to the operating 
+system. The instruction is: 1111000000100101.  The TRAP instruction will
+be explained on Monday in class.

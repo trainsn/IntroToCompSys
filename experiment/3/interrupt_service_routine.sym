@@ -1,0 +1,17 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     2020
+//	DSR                     201F
+//	GOSTAR                  2015
+//	GOWELL                  2017
+//	INPUT                   2004
+//	KBDR                    201E
+//	KBSR                    201D
+//	NEWLINE                 2021
+//	NO                      2013
+//	OUTPUT                  2009
+//	START                   2000
+//	STOP                    2019
+//	SaveR1                  2022
+//	SaveR3                  2023
+//	SaveR4                  2024

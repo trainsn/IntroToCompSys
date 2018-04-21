@@ -1,0 +1,31 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ADDNUM                  30B6
+//	ANDNUM                  30B8
+//	ASCII                   30B9
+//	BACK                    30A6
+//	COUNT                   30BB
+//	EAST                    305B
+//	EXIT                    303D
+//	FAIL                    3018
+//	FUNOR                   309E
+//	LOOP                    3021
+//	MAZE                    3030
+//	MAZEEND                 309A
+//	NO                      30BD
+//	NORTH                   3046
+//	NUM1                    30B1
+//	NUM2                    30B2
+//	NUM3                    30B3
+//	NUM4                    30B4
+//	NUM5                    30B5
+//	ORNUM                   30B7
+//	SOUTH                   3070
+//	SPACE                   30BA
+//	SPP                     30AF
+//	SPR                     30B0
+//	STDATA                  30AE
+//	STOP                    302F
+//	SUCCESS                 301B
+//	SaveR5                  30BC
+//	WEST                    3085

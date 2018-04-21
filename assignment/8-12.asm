@@ -1,0 +1,7 @@
+START	LDI		R0,A
+		BRz		START
+		
+		AND		R1,R1,#0
+		STI		R1,A
+		BR		NEXT_TASK
+A		.FILL	xFD00

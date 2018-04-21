@@ -1,0 +1,8 @@
+		.ORIG	x3000
+		AND 	R0,R2,#1
+		LD		R1,ASCII
+		ADD		R0,R0,R1
+		TRAP	x21		
+		TRAP	x25
+ASCII	.FILL	x30
+		.END
